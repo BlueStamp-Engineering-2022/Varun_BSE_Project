@@ -1,7 +1,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = "amzn1.ask.skill.d800b8ea-44a9-418d-bc72-7cecd8970eb6"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = "xxxxxxxxxxxxxxxxxxxxxxxxx"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * The AlexaSkill prototype and helper functions
@@ -60,8 +60,8 @@ Particle.prototype.intentHandlers = {
 		var pinvalue = "";
 		
 		// Replace these with action device id and access token
-		var deviceid = "31003a000947313037363132";
-		var accessToken = "58b639e7103184b7e63b0f5885465833c73ae99c";
+		var deviceid = "xxxxxxxxxxxxxxxxxxxxxx";
+		var accessToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 		
 		var sparkHst = "api.particle.io";
 		
