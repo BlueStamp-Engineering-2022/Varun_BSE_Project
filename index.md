@@ -7,12 +7,12 @@
 
 ![Headstone Image](https://user-images.githubusercontent.com/107944435/176736426-d27e85cc-f735-488e-835c-b720ac0dfc0b.JPG)
 
- # Final Milestone 
+ # Third Milestone 
 
 
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My third and final milestone was going to be to try to integrate a servo into my particle to flip light switches on and off. I tried a mini servo at first and connected it to 3v3, GND, and the D4 pin but it wasn't powerful enough to flip the light switches. I ended up having to try a normal servo that needed 5 volts of power. I connected it to VIN, GND, and the D4 pin. The VIN gave around 4.8 volts of power. Note that while doing this the 3v3 was still connected to the other circuitry from the second milestone. When I tried to flash the servo test code onto the particle the particle started cycling between white, blinking green, breathing cyan for just a second and then going abck to white and restarting the cycle.
 
- [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"} 
+![20220715_102952](https://user-images.githubusercontent.com/107944435/180027099-76f5d12e-3f1a-4906-9c8d-cbb99f421b2d.jpg)
 
  # Second Milestone
  
